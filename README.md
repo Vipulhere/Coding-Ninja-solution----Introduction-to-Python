@@ -1,1 +1,1 @@
-# Solution---Introduction-to-Python
+# Coding Ninja solution -- Introduction to Python
